@@ -3,10 +3,9 @@
     </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
-    <div align= "center"> <a href=https://www.instagram.com/#jtw._.3> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/#jtw._.3"> </a>
-         <a href=mailto:#plok108@naver.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:#plok108@naver.com"> </a>
+    <div align= "center"> <a href=mailto:#plok108@naver.com> <img src="https://img.shields.io/badge/Naver-EA4335?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:#plok108@naver.com"> </a>
           </div><br>
-    <div align= "center">  </div> 
+    <div align= "center">  </div>
     <h2 align="center">📧 Email 📧</h2>
 <p align="center">
   <Strong> plok108@naver.com </Strong>
